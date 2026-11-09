@@ -1,0 +1,13 @@
+{
+  "name": "bookshelf-api-submission",
+  "version": "1.0.0",
+  "description": "Bookshelf API - Dicoding Submission",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "node --watch src/server.js"
+  },
+  "keywords": ["nodejs", "rest-api", "bookshelf"],
+  "author": "Raihan Abi Nugroho",
+  "license": "ISC"
+}
